@@ -18,7 +18,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Toxic&show_icons=true&hide_border=true&theme=tokyonight">
 
 <h2>Contributions 📈</h2>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Toxic" alt="Toxic"></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ToxicBois44" alt="Toxic"></p>
 
 <a href="https://github.com/ToxicBois44"><img alt="Toxic's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ToxicBois44&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
