@@ -20,7 +20,7 @@
 <h2>Contributions 📈</h2>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Toxic" alt="Toxic"></p>
 
-<a href="https://github.com/ToxicBois44"><img alt="Toxic's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Toxic&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ToxicBois44"><img alt="Toxic's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ToxicBois44&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <h2>Follow me on <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2> 
 
